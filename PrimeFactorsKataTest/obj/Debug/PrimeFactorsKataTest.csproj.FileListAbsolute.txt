@@ -1,0 +1,17 @@
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\PrimeFactorsKataTest.dll
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\PrimeFactorsKataTest.pdb
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\xunit.abstractions.dll
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\xunit.assert.dll
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\xunit.core.dll
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\xunit.execution.desktop.dll
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\xunit.abstractions.xml
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\xunit.assert.pdb
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\xunit.assert.xml
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\xunit.core.pdb
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\xunit.core.xml
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\xunit.execution.desktop.pdb
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\bin\Debug\xunit.execution.desktop.xml
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\obj\Debug\PrimeFactorsKataTest.csprojResolveAssemblyReference.cache
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\obj\Debug\PrimeFactorsKataTest.dll
+c:\Users\jgoodrich\Documents\Visual Studio 2015\Projects\PrimeFactorsKata\PrimeFactorsKataTest\obj\Debug\PrimeFactorsKataTest.pdb
